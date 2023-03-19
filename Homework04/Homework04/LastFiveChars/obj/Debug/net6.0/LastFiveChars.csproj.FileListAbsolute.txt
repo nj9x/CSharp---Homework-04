@@ -1,0 +1,15 @@
+C:\Users\njovi\Desktop\Homework04\Homework04\LastFiveChars\bin\Debug\net6.0\LastFiveChars.exe
+C:\Users\njovi\Desktop\Homework04\Homework04\LastFiveChars\bin\Debug\net6.0\LastFiveChars.deps.json
+C:\Users\njovi\Desktop\Homework04\Homework04\LastFiveChars\bin\Debug\net6.0\LastFiveChars.runtimeconfig.json
+C:\Users\njovi\Desktop\Homework04\Homework04\LastFiveChars\bin\Debug\net6.0\LastFiveChars.dll
+C:\Users\njovi\Desktop\Homework04\Homework04\LastFiveChars\bin\Debug\net6.0\LastFiveChars.pdb
+C:\Users\njovi\Desktop\Homework04\Homework04\LastFiveChars\obj\Debug\net6.0\LastFiveChars.csproj.AssemblyReference.cache
+C:\Users\njovi\Desktop\Homework04\Homework04\LastFiveChars\obj\Debug\net6.0\LastFiveChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\njovi\Desktop\Homework04\Homework04\LastFiveChars\obj\Debug\net6.0\LastFiveChars.AssemblyInfoInputs.cache
+C:\Users\njovi\Desktop\Homework04\Homework04\LastFiveChars\obj\Debug\net6.0\LastFiveChars.AssemblyInfo.cs
+C:\Users\njovi\Desktop\Homework04\Homework04\LastFiveChars\obj\Debug\net6.0\LastFiveChars.csproj.CoreCompileInputs.cache
+C:\Users\njovi\Desktop\Homework04\Homework04\LastFiveChars\obj\Debug\net6.0\LastFiveChars.dll
+C:\Users\njovi\Desktop\Homework04\Homework04\LastFiveChars\obj\Debug\net6.0\refint\LastFiveChars.dll
+C:\Users\njovi\Desktop\Homework04\Homework04\LastFiveChars\obj\Debug\net6.0\LastFiveChars.pdb
+C:\Users\njovi\Desktop\Homework04\Homework04\LastFiveChars\obj\Debug\net6.0\LastFiveChars.genruntimeconfig.cache
+C:\Users\njovi\Desktop\Homework04\Homework04\LastFiveChars\obj\Debug\net6.0\ref\LastFiveChars.dll
